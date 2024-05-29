@@ -10,7 +10,7 @@ const Header = () => {
         <div className="w-1/4">
           <Link to={siteUrl}>
             <picture>
-              <img className="h-16 w-16 rounded-full" alt="logo" src={logo} />
+              <img className="h-16 w-16 rounded-full" alt="logo" src="/images/favicon.png"/>
             </picture>
           </Link>
         </div>
